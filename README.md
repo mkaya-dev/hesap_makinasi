@@ -8,8 +8,7 @@ Front-end geliştirme becerilerimi geliştirmek için tasarlandı. Amacım, HTML
 ### Kullanılan Teknolojiler:
 - HTML5
 - CSS3
-- ReactJS
-- Bootstrap
+- JS
 
 ### Proje Linkleri:
 - Canlı Demo: [`https://mkaya-xbox.netlify.app/`](https://mkaya-xbox.netlify.app/)
