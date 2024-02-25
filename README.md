@@ -11,5 +11,5 @@ Front-end geliştirme becerilerimi geliştirmek için tasarlandı. Amacım, HTML
 - JS
 
 ### Proje Linkleri:
-- Canlı Demo: [`https://mkaya-xbox.netlify.app/`](https://mkaya-xbox.netlify.app/)
+- Canlı Demo: [`https://mkaya-hesapmakinesi.netlify.app/`](https://mkaya-hesapmakinesi.netlify.app/)
 - [![Netlify Status](https://api.netlify.com/api/v1/badges/5970d798-e214-4b86-982f-64f5005f4127/deploy-status)](https://app.netlify.com/sites/mkaya-hesapmakinesi/deploys)
